@@ -1,5 +1,5 @@
 # Basic React Bootstrap Structure
-Tried to create a minimal set up for a React Bootstrap application which uses a module format
+Tried to create a minimal set up for a React Bootstrap application which uses a Browserify CommonJS module structure....which is nice.
 
 Do an:
 
