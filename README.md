@@ -1,4 +1,4 @@
-# basic-react-bootstrap
+# Basic React Bootstrap Structure
 Tried to create a minimal set up for a React Bootstrap application which uses a module format
 
 Do an:
